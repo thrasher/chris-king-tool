@@ -2,7 +2,9 @@
 
 ## Summary
 
-Based on the Chris King [Cone Adjusting Tool](https://chrisking.com/collections/hub-tools/products/cone-adjusting-tool).
+Bearing pre-load tool based on the Chris King [Cone Adjusting Tool](https://chrisking.com/collections/hub-tools/products/cone-adjusting-tool).
+
+[![tool demonstration](images/thumbnail.png "3D Printed Cone Adjusting Tool")](https://www.youtube.com/watch?v=-1BgzFUTxxI)
 
 ## Print Settings
 

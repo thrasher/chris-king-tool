@@ -76,7 +76,7 @@ module front_wrench() {
 		translate( [ADJUSTER_DIA/2+10, -7.5, TOOL_THICKNESS])
 		linear_extrude(height = 1, center = true, convexity = 10, twist = 0, slices = 20, scale = 1.0)
 		scale(1.5)
-		import("ck-primary-white-w_800x.svg", center = false, dpi = 100);
+		import("images/ck-primary-white-w_800x.svg", center = false, dpi = 100);
 	}
 }
 
